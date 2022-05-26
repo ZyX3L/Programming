@@ -1,0 +1,28 @@
+{
+    "members": 
+    [
+        {
+            "name":"xtcy",
+            "description":"I hate women",
+            "image":"./profile_pictures/xtcy.png",
+            "categories":["web", "OSINT", "forensics"],
+            "links":[{"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
+        },
+        {
+            "name":"Defango",
+            "description":"137lb rock fell on my head",
+            "image":"./profile_pictures/defanger.png",
+            "categories":["harrasment", "lies"],
+            "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+                    {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
+        },
+        {
+            "name":"asapRed",
+            "description":"Organizer",
+            "image":"./profile_pictures/kale.jpg",
+            "categories":["reversing", "idk", "pwn"],
+            "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+                    {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
+        }
+    ]
+}

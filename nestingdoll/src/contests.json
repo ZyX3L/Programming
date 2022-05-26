@@ -1,0 +1,16 @@
+{
+    "contests":[
+        {
+            "title": "SanDiego 2022 <br> CTF",
+            "date": "04/06/22",
+            "authors": ["xtcy", " asapRed", " defango"],
+            "tags": ["SDCTF", "Medium", "Writeup"]
+        },
+        {
+            "title": "Hack The Box 2022: <br> Cyber Apocalypse",
+            "date": "04/06/22",
+            "authors": ["xtcy", " asapRed", " defango"],
+            "tags": ["SDCTF", "Medium", "Writeup"]
+        }
+    ]
+}
