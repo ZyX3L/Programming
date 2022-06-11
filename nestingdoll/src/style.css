@@ -5,7 +5,11 @@
   overflow-x: hidden;
 }
 
-#app {
+body::-webkit-scrollbar {
+  width: 0.5em;
+}
+
+#app, * {
   font-family: 'Ubuntu Mono', Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -29,7 +33,6 @@ h1 {
 
 #member_grid{
   display: inline-flex;
-  flex-wrap: nowrap;
   flex-direction: row;
   width: 100%
 }
@@ -46,10 +49,36 @@ h1 {
   font-size: 30px;
   margin: 0;
   line-height: 30px;
+  background: none;
 }
 #qoute {
   position: absolute;
   left: 100vw;
   white-space: nowrap;
   overflow-x: hidden;
+}
+#nav_bar {
+  position: fixed;
+  width: 100%;
+  padding-top: 0.5rem;
+  top: 0;
+}
+
+hr {
+  border: 1px solid #555
+}
+
+.pointer {
+  cursor: pointer
+}
+
+.contest {
+  width: 100%;
+  text-align: center;
+  cursor: pointer;
+  transition: 0.5s;
+  padding-top: 1rem;
+}
+.contest:hover {
+  background-color: #222;
 }

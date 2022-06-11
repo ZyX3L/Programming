@@ -1,16 +1,29 @@
 {
     "contests":[
         {
-            "title": "SanDiego 2022 <br> CTF",
+            "id": "1",
+            "title": "SanDiego 2022 CTF",
             "date": "04/06/22",
-            "authors": ["xtcy", " asapRed", " defango"],
-            "tags": ["SDCTF", "Medium", "Writeup"]
+            "authors": ["xtcy"],
+            "tags": ["SDCTF", "Medium", "Writeup"],
+            "standing": 1
         },
         {
-            "title": "Hack The Box 2022: <br> Cyber Apocalypse",
+            "id": "2",
+            "title": "Hack The Box 2022: Cyber Apocalypse",
             "date": "04/06/22",
-            "authors": ["xtcy", " asapRed", " defango"],
-            "tags": ["SDCTF", "Medium", "Writeup"]
+            "authors": ["xtcy"],
+            "tags": ["SDCTF", "Medium", "Writeup"],
+            "standing": 1
+        },
+        {
+            "id": "3",
+            "title": "BYU CTF 2022",
+            "date": "27/06/22",
+            "authors": ["xtcy"],
+            "tags": ["BYUCTF", "Easy", "Writeup"],
+            "standing": 1,
+            "path":"byuctf2022.md"
         }
     ]
 }

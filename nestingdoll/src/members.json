@@ -3,24 +3,104 @@
     [
         {
             "name":"xtcy",
-            "description":"I hate women",
-            "image":"./profile_pictures/xtcy.png",
+            "description":"I am also Zyu",
+            "image":"https://i.imgur.com/CPCkTV8.jpeg",
             "categories":["web", "OSINT", "forensics"],
             "links":[{"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
         },
         {
             "name":"Defango",
             "description":"137lb rock fell on my head",
-            "image":"./profile_pictures/defanger.png",
-            "categories":["harrasment", "lies"],
+            "image":"https://cdn.discordapp.com/attachments/973595846585221200/980405736683208754/cyberdefango.PNG",
+            "categories":["web", "crypto", "predator"],
             "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
                     {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
         },
         {
             "name":"asapRed",
             "description":"Organizer",
-            "image":"./profile_pictures/kale.jpg",
-            "categories":["reversing", "idk", "pwn"],
+            "image":"https://cdn.discordapp.com/avatars/877738354987388958/2cb53f66ef5ce5537e86c5f7fef71cc7.webp?size=80",
+            "categories":["reversing", "OSINT", "pwn"],
+            "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+                    {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
+        },
+        {
+            "name":"asapRed",
+            "description":"Organizer",
+            "image":"https://cdn.discordapp.com/avatars/877738354987388958/2cb53f66ef5ce5537e86c5f7fef71cc7.webp?size=80",
+            "categories":["reversing", "OSINT", "pwn"],
+            "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+                    {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
+        },
+        {
+            "name":"asapRed",
+            "description":"Organizer",
+            "image":"https://cdn.discordapp.com/avatars/877738354987388958/2cb53f66ef5ce5537e86c5f7fef71cc7.webp?size=80",
+            "categories":["reversing", "OSINT", "pwn"],
+            "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+                    {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
+        },
+        {
+            "name":"asapRed",
+            "description":"Organizer",
+            "image":"https://cdn.discordapp.com/avatars/877738354987388958/2cb53f66ef5ce5537e86c5f7fef71cc7.webp?size=80",
+            "categories":["reversing", "OSINT", "pwn"],
+            "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+                    {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
+        },
+        {
+            "name":"Defango",
+            "description":"137lb rock fell on my head",
+            "image":"https://cdn.discordapp.com/attachments/973595846585221200/980405736683208754/cyberdefango.PNG",
+            "categories":["web", "crypto", "predator"],
+            "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+                    {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
+        },
+        {
+            "name":"Defango",
+            "description":"137lb rock fell on my head",
+            "image":"https://cdn.discordapp.com/attachments/973595846585221200/980405736683208754/cyberdefango.PNG",
+            "categories":["web", "crypto", "predator"],
+            "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+                    {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
+        },
+        {
+            "name":"Defango",
+            "description":"137lb rock fell on my head",
+            "image":"https://cdn.discordapp.com/attachments/973595846585221200/980405736683208754/cyberdefango.PNG",
+            "categories":["web", "crypto", "predator"],
+            "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+                    {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
+        },
+        {
+            "name":"Defango",
+            "description":"137lb rock fell on my head",
+            "image":"https://cdn.discordapp.com/attachments/973595846585221200/980405736683208754/cyberdefango.PNG",
+            "categories":["web", "crypto", "predator"],
+            "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+                    {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
+        },
+        {
+            "name":"Defango",
+            "description":"137lb rock fell on my head",
+            "image":"https://cdn.discordapp.com/attachments/973595846585221200/980405736683208754/cyberdefango.PNG",
+            "categories":["web", "crypto", "predator"],
+            "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+                    {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
+        },
+        {
+            "name":"Defango",
+            "description":"137lb rock fell on my head",
+            "image":"https://cdn.discordapp.com/attachments/973595846585221200/980405736683208754/cyberdefango.PNG",
+            "categories":["web", "crypto", "predator"],
+            "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+                    {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
+        },
+        {
+            "name":"Defango",
+            "description":"137lb rock fell on my head",
+            "image":"https://cdn.discordapp.com/attachments/973595846585221200/980405736683208754/cyberdefango.PNG",
+            "categories":["web", "crypto", "predator"],
             "links":[{"type": "twitter", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
                     {"type": "youtube", "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
         }
